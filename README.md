@@ -267,14 +267,6 @@ Poor customer support attitude is the single biggest reason new customers leave 
 
 6. **Focus regional retention efforts on San Diego and Los Angeles** — highest churn rate and highest churn volume respectively. Region-specific interventions — better local support, competitive pricing, or network upgrades — are warranted.
 
----
-
-## 📸 Notebook Preview
-
-*(Add screenshots of your key charts here once uploaded)*
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -282,13 +274,6 @@ ibm-customer-churn-analysis/
 ├── IBM_Customer_churn_analysis.ipynb   ← Full analysis notebook
 ├── Telco_customer_churn.xlsx           ← Raw dataset
 ├── IBM_churn.csv                       ← Cleaned dataset (exported mid-notebook)
-├── Screenshots/
-│   ├── executive_kpis.png
-│   ├── churn_by_tenure.png
-│   ├── risk_zone_scatter.png
-│   ├── geo_hotspots.png
-│   ├── early_churn_reasons.png
-│   └── kde_monthly_charges.png
 └── README.md
 ```
 
